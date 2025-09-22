@@ -29,9 +29,9 @@ This repository is a **basic demo project** showcasing how to set up **Laravel R
 
 ```bash
 # Clone repo
-git clone https://github.com/username/laravel-websocket-basic.git
+git clone https://github.com/almalikzakwan/Laravel-Websocket.git
 
-cd laravel-websocket-basic
+cd Laravel-Websocket
 
 # Install PHP dependencies
 composer install
