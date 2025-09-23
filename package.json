@@ -7,7 +7,7 @@
         "dev": "vite",
         "laravel:serve": "php artisan serve --host=0.0.0.0 --port=8000",
         "laravel:reverb": "php artisan reverb:start",
-        "laravel:worker": "php artisan queue:work --sleep=3 --tries=3"
+        "laravel:worker": "php artisan queue:work --sleep=1 --tries=3"
     },
     "devDependencies": {
         "@tailwindcss/vite": "^4.0.0",
