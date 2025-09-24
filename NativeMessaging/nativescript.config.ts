@@ -2,8 +2,8 @@ import { NativeScriptConfig } from '@nativescript/core';
 
 export default {
   id: 'org.nativescript.NativeMessaging',
-  appPath: 'app',
-  appResourcesPath: 'App_Resources',
+  appPath: 'src',
+  appResourcesPath: 'apps',
   android: {
     v8Flags: '--expose_gc',
     markingMode: 'none'
